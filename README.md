@@ -1,5 +1,6 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OutisVT&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=outisvt&show_icons=true&theme=dark)
+
 
 <!--
 **OutisVT/OutisVT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
