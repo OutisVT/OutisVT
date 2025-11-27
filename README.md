@@ -1,4 +1,10 @@
-## Hi there 👋
+## In case I don't see ya, good afternoon, good evening, and good night!
+My names Outis I most mainly Code in python mostly because of my job
+sometimes experimenting a little bit with a combination out of different languages like C++ and C#
+
+i also like to 
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=outisvt&show_icons=true&theme=dark)
 
 
