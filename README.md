@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="style/banner/9c44a6cb38a5987eab3ea99e6db24744-1388983288.gif"
+    src="style/banner/cropped-6a225a66c061d503.gif"
     alt="banner"
     style="
       height: 180px;
