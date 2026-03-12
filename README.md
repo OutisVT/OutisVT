@@ -15,11 +15,11 @@
 </p>
 
 <p>
-My name’s Outis. I primarily code in Python because of my job — sometimes experimenting a little bit with a combination of different languages like C++ and C#.
+My name’s Outis. I primarily code in Python because of my job — Love experimenting with Networking and cybersecurity topics 
 
 Currently learning for my certs.
 
-I also like to do a lot in Blender, which is why I’m currently working on an addon that’s useful in combination with Robust Weight Transfer.
+also like to do a lot in Blender, which is why I’m currently working on an addon that’s useful in combination with Robust Weight Transfer.
 </p>
 
 <p>
@@ -37,8 +37,8 @@ I also like to do a lot in Blender, which is why I’m currently working on an a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 
 </div>
+
